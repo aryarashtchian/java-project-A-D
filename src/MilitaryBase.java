@@ -1,4 +1,4 @@
 
-public class MilitaryBase {
+public class MilitaryBase extends MilitaryBuildings {
 
 }

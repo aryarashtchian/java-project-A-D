@@ -1,4 +1,4 @@
 
-public class Soldiers {
+public class Soldiers extends Attacker {
 
 }
